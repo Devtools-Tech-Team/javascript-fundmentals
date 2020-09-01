@@ -12,5 +12,6 @@ function getSize () {
     return size;
 }
 
-console.log('Your size is ' + getSize());
+console.log('Value of getSize is ' + getSize());
+console.log('Your size is ' + size);
 // Output ??
